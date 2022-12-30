@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagram version="1" name="ERD_diagram.erd">
+	<entities>
+		<data-source id="mysql8-17ef4283218-1d04632cbbf569f">
+			<entity id="1" name="add_educ_for_kids" fq-name="labirint.add_educ_for_kids" order="0" x="450" y="6460">
+				<path name="labirint"/>
+			</entity>
+			<entity id="2" name="adventure" fq-name="labirint.adventure" order="1" x="450" y="4367">
+				<path name="labirint"/>
+			</entity>
+			<entity id="3" name="animal_care" fq-name="labirint.animal_care" order="2" x="450" y="20">
+				<path name="labirint"/>
+			</entity>
+			<entity id="4" name="aphorisms" fq-name="labirint.aphorisms" order="3" x="450" y="4528">
+				<path name="labirint"/>
+			</entity>
+			<entity id="5" name="artbooks_and_co" fq-name="labirint.artbooks_and_co" order="4" x="450" y="8070">
+				<path name="labirint"/>
+			</entity>
+			<entity id="6" name="beauty_and_etiquette" fq-name="labirint.beauty_and_etiquette" order="5" x="450" y="181">
+				<path name="labirint"/>
+			</entity>
+			<entity id="7" name="benefits_for_disabled_kids" fq-name="labirint.benefits_for_disabled_kids" order="6" x="450" y="6621">
+				<path name="labirint"/>
+			</entity>
+			<entity id="8" name="bilingual" fq-name="labirint.bilingual" order="7" x="450" y="10646">
+				<path name="labirint"/>
+			</entity>
+			<entity id="9" name="bilingual_books" fq-name="labirint.bilingual_books" order="8" x="226" y="10694">
+				<path name="labirint"/>
+			</entity>
+			<entity id="10" name="books" fq-name="labirint.books" order="9" x="20" y="7047">
+				<path name="labirint"/>
+			</entity>
+			<entity id="11" name="books_for_kids" fq-name="labirint.books_for_kids" order="10" x="226" y="9490">
+				<path name="labirint"/>
+			</entity>
+			<entity id="12" name="books_for_parents" fq-name="labirint.books_for_parents" order="11" x="450" y="342">
+				<path name="labirint"/>
+			</entity>
+			<entity id="13" name="books_for_school" fq-name="labirint.books_for_school" order="12" x="450" y="6782">
+				<path name="labirint"/>
+			</entity>
+			<entity id="14" name="business_and_economy" fq-name="labirint.business_and_economy" order="13" x="460" y="498">
+				<path name="labirint"/>
+			</entity>
+			<entity id="15" name="child_development" fq-name="labirint.child_development" order="14" x="450" y="9358">
+				<path name="labirint"/>
+			</entity>
+			<entity id="16" name="childrens_fiction" fq-name="labirint.childrens_fiction" order="15" x="450" y="9519">
+				<path name="labirint"/>
+			</entity>
+			<entity id="17" name="childrens_leisure" fq-name="labirint.childrens_leisure" order="16" x="450" y="9680">
+				<path name="labirint"/>
+			</entity>
+			<entity id="18" name="christianity" fq-name="labirint.christianity" order="17" x="450" y="10002">
+				<path name="labirint"/>
+			</entity>
+			<entity id="19" name="classical_prose" fq-name="labirint.classical_prose" order="18" x="450" y="4689">
+				<path name="labirint"/>
+			</entity>
+			<entity id="20" name="collection" fq-name="labirint.collection" order="19" x="450" y="664">
+				<path name="labirint"/>
+			</entity>
+			<entity id="21" name="comics" fq-name="labirint.comics" order="20" x="450" y="8231">
+				<path name="labirint"/>
+			</entity>
+			<entity id="22" name="comics_for_kids" fq-name="labirint.comics_for_kids" order="21" x="450" y="8392">
+				<path name="labirint"/>
+			</entity>
+			<entity id="23" name="comics_manga_artbk" fq-name="labirint.comics_manga_artbk" order="22" x="226" y="8486">
+				<path name="labirint"/>
+			</entity>
+			<entity id="24" name="constraction" fq-name="labirint.constraction" order="23" x="450" y="825">
+				<path name="labirint"/>
+			</entity>
+			<entity id="25" name="cooking" fq-name="labirint.cooking" order="24" x="450" y="986">
+				<path name="labirint"/>
+			</entity>
+			<entity id="26" name="crop_production" fq-name="labirint.crop_production" order="25" x="450" y="1147">
+				<path name="labirint"/>
+			</entity>
+			<entity id="27" name="culture_and_art" fq-name="labirint.culture_and_art" order="26" x="450" y="1308">
+				<path name="labirint"/>
+			</entity>
+			<entity id="28" name="demo_materials" fq-name="labirint.demo_materials" order="27" x="450" y="6943">
+				<path name="labirint"/>
+			</entity>
+			<entity id="29" name="detectives" fq-name="labirint.detectives" order="28" x="450" y="4850">
+				<path name="labirint"/>
+			</entity>
+			<entity id="30" name="dictionaries" fq-name="labirint.dictionaries" order="29" x="450" y="7104">
+				<path name="labirint"/>
+			</entity>
+			<entity id="31" name="domestic_militant" fq-name="labirint.domestic_militant" order="30" x="450" y="5011">
+				<path name="labirint"/>
+			</entity>
+			<entity id="32" name="dramaturgy" fq-name="labirint.dramaturgy" order="31" x="450" y="5172">
+				<path name="labirint"/>
+			</entity>
+			<entity id="33" name="educ_lit_for_kids" fq-name="labirint.educ_lit_for_kids" order="32" x="450" y="9841">
+				<path name="labirint"/>
+			</entity>
+			<entity id="34" name="educational_comics" fq-name="labirint.educational_comics" order="33" x="450" y="8553">
+				<path name="labirint"/>
+			</entity>
+			<entity id="35" name="encyclopedias" fq-name="labirint.encyclopedias" order="34" x="450" y="1469">
+				<path name="labirint"/>
+			</entity>
+			<entity id="36" name="english_lang" fq-name="labirint.english_lang" order="35" x="686" y="10311">
+				<path name="labirint"/>
+			</entity>
+			<entity id="37" name="entertainment_holidays" fq-name="labirint.entertainment_holidays" order="36" x="450" y="1630">
+				<path name="labirint"/>
+			</entity>
+			<entity id="38" name="esoterics" fq-name="labirint.esoterics" order="37" x="450" y="1791">
+				<path name="labirint"/>
+			</entity>
+			<entity id="39" name="fables" fq-name="labirint.fables" order="38" x="450" y="5333">
+				<path name="labirint"/>
+			</entity>
+			<entity id="40" name="fan_souvenirs" fq-name="labirint.fan_souvenirs" order="39" x="450" y="8714">
+				<path name="labirint"/>
+			</entity>
+			<entity id="41" name="fantastic_tales" fq-name="labirint.fantastic_tales" order="40" x="450" y="5494">
+				<path name="labirint"/>
+			</entity>
+			<entity id="42" name="fantasy" fq-name="labirint.fantasy" order="41" x="450" y="5655">
+				<path name="labirint"/>
+			</entity>
+			<entity id="43" name="fictional_books" fq-name="labirint.fictional_books" order="42" x="226" y="5345">
+				<path name="labirint"/>
+			</entity>
+			<entity id="44" name="fitness_and_co" fq-name="labirint.fitness_and_co" order="43" x="450" y="1952">
+				<path name="labirint"/>
+			</entity>
+			<entity id="45" name="foreign_lang" fq-name="labirint.foreign_lang" order="44" x="450" y="7265">
+				<path name="labirint"/>
+			</entity>
+			<entity id="46" name="french_lang" fq-name="labirint.french_lang" order="45" x="686" y="10472">
+				<path name="labirint"/>
+			</entity>
+			<entity id="47" name="german_lang" fq-name="labirint.german_lang" order="46" x="686" y="10633">
+				<path name="labirint"/>
+			</entity>
+			<entity id="48" name="historical_prose" fq-name="labirint.historical_prose" order="47" x="450" y="5816">
+				<path name="labirint"/>
+			</entity>
+			<entity id="49" name="history" fq-name="labirint.history" order="48" x="450" y="2113">
+				<path name="labirint"/>
+			</entity>
+			<entity id="50" name="home_crafts" fq-name="labirint.home_crafts" order="49" x="450" y="2274">
+				<path name="labirint"/>
+			</entity>
+			<entity id="51" name="housekeeping" fq-name="labirint.housekeeping" order="50" x="450" y="2435">
+				<path name="labirint"/>
+			</entity>
+			<entity id="52" name="hunting" fq-name="labirint.hunting" order="51" x="450" y="2596">
+				<path name="labirint"/>
+			</entity>
+			<entity id="53" name="information_techno" fq-name="labirint.information_techno" order="52" x="450" y="2757">
+				<path name="labirint"/>
+			</entity>
+			<entity id="54" name="islam" fq-name="labirint.islam" order="53" x="450" y="10163">
+				<path name="labirint"/>
+			</entity>
+			<entity id="55" name="italian_lang" fq-name="labirint.italian_lang" order="54" x="686" y="10794">
+				<path name="labirint"/>
+			</entity>
+			<entity id="56" name="lit_on_a_foreign_lang" fq-name="labirint.lit_on_a_foreign_lang" order="55" x="450" y="10940">
+				<path name="labirint"/>
+			</entity>
+			<entity id="57" name="lit_on_a_foreign_lang_for_kids" fq-name="labirint.lit_on_a_foreign_lang_for_kids" order="56" x="450" y="11120">
+				<path name="labirint"/>
+			</entity>
+			<entity id="58" name="manga" fq-name="labirint.manga" order="57" x="450" y="8875">
+				<path name="labirint"/>
+			</entity>
+			<entity id="59" name="manga_for_kids" fq-name="labirint.manga_for_kids" order="58" x="450" y="9036">
+				<path name="labirint"/>
+			</entity>
+			<entity id="60" name="medicine_and_health" fq-name="labirint.medicine_and_health" order="59" x="450" y="2918">
+				<path name="labirint"/>
+			</entity>
+			<entity id="61" name="modern_prose" fq-name="labirint.modern_prose" order="60" x="450" y="5977">
+				<path name="labirint"/>
+			</entity>
+			<entity id="62" name="natural_sciences" fq-name="labirint.natural_sciences" order="61" x="450" y="3079">
+				<path name="labirint"/>
+			</entity>
+			<entity id="63" name="non_fiction_literature" fq-name="labirint.non_fiction_literature" order="62" x="226" y="2188">
+				<path name="labirint"/>
+			</entity>
+			<entity id="64" name="novelizations" fq-name="labirint.novelizations" order="63" x="450" y="9197">
+				<path name="labirint"/>
+			</entity>
+			<entity id="65" name="other_lang" fq-name="labirint.other_lang" order="64" x="686" y="10955">
+				<path name="labirint"/>
+			</entity>
+			<entity id="66" name="pedagogy" fq-name="labirint.pedagogy" order="65" x="450" y="7426">
+				<path name="labirint"/>
+			</entity>
+			<entity id="67" name="periodicals" fq-name="labirint.periodicals" order="66" x="226" y="1828">
+				<path name="labirint"/>
+			</entity>
+			<entity id="68" name="philological_sciences" fq-name="labirint.philological_sciences" order="67" x="450" y="3240">
+				<path name="labirint"/>
+			</entity>
+			<entity id="69" name="philosophical_sciences" fq-name="labirint.philosophical_sciences" order="68" x="450" y="3401">
+				<path name="labirint"/>
+			</entity>
+			<entity id="70" name="poetry" fq-name="labirint.poetry" order="69" x="450" y="6138">
+				<path name="labirint"/>
+			</entity>
+			<entity id="71" name="preschool_educ" fq-name="labirint.preschool_educ" order="70" x="450" y="7587">
+				<path name="labirint"/>
+			</entity>
+			<entity id="72" name="psychology" fq-name="labirint.psychology" order="71" x="450" y="3562">
+				<path name="labirint"/>
+			</entity>
+			<entity id="73" name="publicism" fq-name="labirint.publicism" order="72" x="450" y="3723">
+				<path name="labirint"/>
+			</entity>
+			<entity id="74" name="religion" fq-name="labirint.religion" order="73" x="226" y="10134">
+				<path name="labirint"/>
+			</entity>
+			<entity id="75" name="religious_studies" fq-name="labirint.religious_studies" order="74" x="450" y="10324">
+				<path name="labirint"/>
+			</entity>
+			<entity id="76" name="sentimental_prose" fq-name="labirint.sentimental_prose" order="75" x="450" y="6299">
+				<path name="labirint"/>
+			</entity>
+			<entity id="77" name="spanish_lang" fq-name="labirint.spanish_lang" order="76" x="686" y="11116">
+				<path name="labirint"/>
+			</entity>
+			<entity id="78" name="state_and_law" fq-name="labirint.state_and_law" order="77" x="450" y="3884">
+				<path name="labirint"/>
+			</entity>
+			<entity id="79" name="support_for_stud" fq-name="labirint.support_for_stud" order="78" x="450" y="7748">
+				<path name="labirint"/>
+			</entity>
+			<entity id="80" name="technical_science" fq-name="labirint.technical_science" order="79" x="450" y="4045">
+				<path name="labirint"/>
+			</entity>
+			<entity id="81" name="tourism_and_co" fq-name="labirint.tourism_and_co" order="80" x="450" y="4206">
+				<path name="labirint"/>
+			</entity>
+			<entity id="82" name="txtbooks_and_dictionaries" fq-name="labirint.txtbooks_and_dictionaries" order="81" x="226" y="7018">
+				<path name="labirint"/>
+			</entity>
+			<entity id="83" name="uni_preparation" fq-name="labirint.uni_preparation" order="82" x="450" y="7909">
+				<path name="labirint"/>
+			</entity>
+			<entity id="84" name="worlds_religion" fq-name="labirint.worlds_religion" order="83" x="450" y="10485">
+				<path name="labirint"/>
+			</entity>
+			<entity id="85" name="youth_literature" fq-name="labirint.youth_literature" order="84" x="226" y="2008">
+				<path name="labirint"/>
+			</entity>
+		</data-source>
+	</entities>
+	<relations>
+		<relation name="txtbooks_and_dictionaries_ibfk_3" fq-name="labirint.txtbooks_and_dictionaries.txtbooks_and_dictionaries_ibfk_3" type="fk" pk-ref="1" fk-ref="82"/>
+		<relation name="fictional_books_ibfk_9" fq-name="labirint.fictional_books.fictional_books_ibfk_9" type="fk" pk-ref="2" fk-ref="43"/>
+		<relation name="non_fiction_literature_ibfk_23" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_23" type="fk" pk-ref="3" fk-ref="63"/>
+		<relation name="fictional_books_ibfk_1" fq-name="labirint.fictional_books.fictional_books_ibfk_1" type="fk" pk-ref="4" fk-ref="43"/>
+		<relation name="comics_manga_artbk_ibfk_1" fq-name="labirint.comics_manga_artbk.comics_manga_artbk_ibfk_1" type="fk" pk-ref="5" fk-ref="23"/>
+		<relation name="non_fiction_literature_ibfk_10" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_10" type="fk" pk-ref="6" fk-ref="63"/>
+		<relation name="txtbooks_and_dictionaries_ibfk_9" fq-name="labirint.txtbooks_and_dictionaries.txtbooks_and_dictionaries_ibfk_9" type="fk" pk-ref="7" fk-ref="82"/>
+		<relation name="bilingual_books_ibfk_1" fq-name="labirint.bilingual_books.bilingual_books_ibfk_1" type="fk" pk-ref="8" fk-ref="9"/>
+		<relation name="books_ibfk_1" fq-name="labirint.books.books_ibfk_1" type="fk" pk-ref="9" fk-ref="10"/>
+		<relation name="books_ibfk_2" fq-name="labirint.books.books_ibfk_2" type="fk" pk-ref="11" fk-ref="10"/>
+		<relation name="non_fiction_literature_ibfk_8" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_8" type="fk" pk-ref="12" fk-ref="63"/>
+		<relation name="txtbooks_and_dictionaries_ibfk_6" fq-name="labirint.txtbooks_and_dictionaries.txtbooks_and_dictionaries_ibfk_6" type="fk" pk-ref="13" fk-ref="82"/>
+		<relation name="non_fiction_literature_ibfk_1" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_1" type="fk" pk-ref="14" fk-ref="63"/>
+		<relation name="books_for_kids_ibfk_3" fq-name="labirint.books_for_kids.books_for_kids_ibfk_3" type="fk" pk-ref="15" fk-ref="11"/>
+		<relation name="books_for_kids_ibfk_1" fq-name="labirint.books_for_kids.books_for_kids_ibfk_1" type="fk" pk-ref="16" fk-ref="11"/>
+		<relation name="books_for_kids_ibfk_2" fq-name="labirint.books_for_kids.books_for_kids_ibfk_2" type="fk" pk-ref="17" fk-ref="11"/>
+		<relation name="religion_ibfk_4" fq-name="labirint.religion.religion_ibfk_4" type="fk" pk-ref="18" fk-ref="74"/>
+		<relation name="fictional_books_ibfk_6" fq-name="labirint.fictional_books.fictional_books_ibfk_6" type="fk" pk-ref="19" fk-ref="43"/>
+		<relation name="non_fiction_literature_ibfk_9" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_9" type="fk" pk-ref="20" fk-ref="63"/>
+		<relation name="comics_manga_artbk_ibfk_2" fq-name="labirint.comics_manga_artbk.comics_manga_artbk_ibfk_2" type="fk" pk-ref="21" fk-ref="23"/>
+		<relation name="comics_manga_artbk_ibfk_3" fq-name="labirint.comics_manga_artbk.comics_manga_artbk_ibfk_3" type="fk" pk-ref="22" fk-ref="23"/>
+		<relation name="books_ibfk_3" fq-name="labirint.books.books_ibfk_3" type="fk" pk-ref="23" fk-ref="10"/>
+		<relation name="non_fiction_literature_ibfk_19" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_19" type="fk" pk-ref="24" fk-ref="63"/>
+		<relation name="non_fiction_literature_ibfk_11" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_11" type="fk" pk-ref="25" fk-ref="63"/>
+		<relation name="non_fiction_literature_ibfk_18" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_18" type="fk" pk-ref="26" fk-ref="63"/>
+		<relation name="non_fiction_literature_ibfk_12" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_12" type="fk" pk-ref="27" fk-ref="63"/>
+		<relation name="txtbooks_and_dictionaries_ibfk_2" fq-name="labirint.txtbooks_and_dictionaries.txtbooks_and_dictionaries_ibfk_2" type="fk" pk-ref="28" fk-ref="82"/>
+		<relation name="fictional_books_ibfk_3" fq-name="labirint.fictional_books.fictional_books_ibfk_3" type="fk" pk-ref="29" fk-ref="43"/>
+		<relation name="txtbooks_and_dictionaries_ibfk_10" fq-name="labirint.txtbooks_and_dictionaries.txtbooks_and_dictionaries_ibfk_10" type="fk" pk-ref="30" fk-ref="82"/>
+		<relation name="fictional_books_ibfk_7" fq-name="labirint.fictional_books.fictional_books_ibfk_7" type="fk" pk-ref="31" fk-ref="43"/>
+		<relation name="fictional_books_ibfk_4" fq-name="labirint.fictional_books.fictional_books_ibfk_4" type="fk" pk-ref="32" fk-ref="43"/>
+		<relation name="books_for_kids_ibfk_4" fq-name="labirint.books_for_kids.books_for_kids_ibfk_4" type="fk" pk-ref="33" fk-ref="11"/>
+		<relation name="comics_manga_artbk_ibfk_7" fq-name="labirint.comics_manga_artbk.comics_manga_artbk_ibfk_7" type="fk" pk-ref="34" fk-ref="23"/>
+		<relation name="non_fiction_literature_ibfk_22" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_22" type="fk" pk-ref="35" fk-ref="63"/>
+		<relation name="bilingual_ibfk_1" fq-name="labirint.bilingual.bilingual_ibfk_1" type="fk" pk-ref="36" fk-ref="8"/>
+		<relation name="non_fiction_literature_ibfk_17" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_17" type="fk" pk-ref="37" fk-ref="63"/>
+		<relation name="non_fiction_literature_ibfk_27" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_27" type="fk" pk-ref="38" fk-ref="63"/>
+		<relation name="fictional_books_ibfk_2" fq-name="labirint.fictional_books.fictional_books_ibfk_2" type="fk" pk-ref="39" fk-ref="43"/>
+		<relation name="comics_manga_artbk_ibfk_8" fq-name="labirint.comics_manga_artbk.comics_manga_artbk_ibfk_8" type="fk" pk-ref="40" fk-ref="23"/>
+		<relation name="fictional_books_ibfk_12" fq-name="labirint.fictional_books.fictional_books_ibfk_12" type="fk" pk-ref="41" fk-ref="43"/>
+		<relation name="fictional_books_ibfk_13" fq-name="labirint.fictional_books.fictional_books_ibfk_13" type="fk" pk-ref="42" fk-ref="43"/>
+		<relation name="books_ibfk_9" fq-name="labirint.books.books_ibfk_9" type="fk" pk-ref="43" fk-ref="10"/>
+		<relation name="non_fiction_literature_ibfk_26" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_26" type="fk" pk-ref="44" fk-ref="63"/>
+		<relation name="txtbooks_and_dictionaries_ibfk_5" fq-name="labirint.txtbooks_and_dictionaries.txtbooks_and_dictionaries_ibfk_5" type="fk" pk-ref="45" fk-ref="82"/>
+		<relation name="bilingual_ibfk_6" fq-name="labirint.bilingual.bilingual_ibfk_6" type="fk" pk-ref="46" fk-ref="8"/>
+		<relation name="bilingual_ibfk_5" fq-name="labirint.bilingual.bilingual_ibfk_5" type="fk" pk-ref="47" fk-ref="8"/>
+		<relation name="fictional_books_ibfk_5" fq-name="labirint.fictional_books.fictional_books_ibfk_5" type="fk" pk-ref="48" fk-ref="43"/>
+		<relation name="non_fiction_literature_ibfk_7" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_7" type="fk" pk-ref="49" fk-ref="63"/>
+		<relation name="non_fiction_literature_ibfk_4" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_4" type="fk" pk-ref="50" fk-ref="63"/>
+		<relation name="non_fiction_literature_ibfk_3" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_3" type="fk" pk-ref="51" fk-ref="63"/>
+		<relation name="non_fiction_literature_ibfk_14" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_14" type="fk" pk-ref="52" fk-ref="63"/>
+		<relation name="non_fiction_literature_ibfk_6" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_6" type="fk" pk-ref="53" fk-ref="63"/>
+		<relation name="religion_ibfk_1" fq-name="labirint.religion.religion_ibfk_1" type="fk" pk-ref="54" fk-ref="74"/>
+		<relation name="bilingual_ibfk_4" fq-name="labirint.bilingual.bilingual_ibfk_4" type="fk" pk-ref="55" fk-ref="8"/>
+		<relation name="bilingual_books_ibfk_2" fq-name="labirint.bilingual_books.bilingual_books_ibfk_2" type="fk" pk-ref="56" fk-ref="9"/>
+		<relation name="bilingual_books_ibfk_3" fq-name="labirint.bilingual_books.bilingual_books_ibfk_3" type="fk" pk-ref="57" fk-ref="9"/>
+		<relation name="comics_manga_artbk_ibfk_4" fq-name="labirint.comics_manga_artbk.comics_manga_artbk_ibfk_4" type="fk" pk-ref="58" fk-ref="23"/>
+		<relation name="comics_manga_artbk_ibfk_5" fq-name="labirint.comics_manga_artbk.comics_manga_artbk_ibfk_5" type="fk" pk-ref="59" fk-ref="23"/>
+		<relation name="non_fiction_literature_ibfk_13" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_13" type="fk" pk-ref="60" fk-ref="63"/>
+		<relation name="fictional_books_ibfk_11" fq-name="labirint.fictional_books.fictional_books_ibfk_11" type="fk" pk-ref="61" fk-ref="43"/>
+		<relation name="non_fiction_literature_ibfk_5" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_5" type="fk" pk-ref="62" fk-ref="63"/>
+		<relation name="books_ibfk_5" fq-name="labirint.books.books_ibfk_5" type="fk" pk-ref="63" fk-ref="10"/>
+		<relation name="comics_manga_artbk_ibfk_6" fq-name="labirint.comics_manga_artbk.comics_manga_artbk_ibfk_6" type="fk" pk-ref="64" fk-ref="23"/>
+		<relation name="bilingual_ibfk_2" fq-name="labirint.bilingual.bilingual_ibfk_2" type="fk" pk-ref="65" fk-ref="8"/>
+		<relation name="txtbooks_and_dictionaries_ibfk_7" fq-name="labirint.txtbooks_and_dictionaries.txtbooks_and_dictionaries_ibfk_7" type="fk" pk-ref="66" fk-ref="82"/>
+		<relation name="books_ibfk_6" fq-name="labirint.books.books_ibfk_6" type="fk" pk-ref="67" fk-ref="10"/>
+		<relation name="non_fiction_literature_ibfk_24" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_24" type="fk" pk-ref="68" fk-ref="63"/>
+		<relation name="non_fiction_literature_ibfk_25" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_25" type="fk" pk-ref="69" fk-ref="63"/>
+		<relation name="fictional_books_ibfk_8" fq-name="labirint.fictional_books.fictional_books_ibfk_8" type="fk" pk-ref="70" fk-ref="43"/>
+		<relation name="txtbooks_and_dictionaries_ibfk_4" fq-name="labirint.txtbooks_and_dictionaries.txtbooks_and_dictionaries_ibfk_4" type="fk" pk-ref="71" fk-ref="82"/>
+		<relation name="non_fiction_literature_ibfk_15" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_15" type="fk" pk-ref="72" fk-ref="63"/>
+		<relation name="non_fiction_literature_ibfk_16" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_16" type="fk" pk-ref="73" fk-ref="63"/>
+		<relation name="books_ibfk_7" fq-name="labirint.books.books_ibfk_7" type="fk" pk-ref="74" fk-ref="10"/>
+		<relation name="religion_ibfk_3" fq-name="labirint.religion.religion_ibfk_3" type="fk" pk-ref="75" fk-ref="74"/>
+		<relation name="fictional_books_ibfk_10" fq-name="labirint.fictional_books.fictional_books_ibfk_10" type="fk" pk-ref="76" fk-ref="43"/>
+		<relation name="bilingual_ibfk_3" fq-name="labirint.bilingual.bilingual_ibfk_3" type="fk" pk-ref="77" fk-ref="8"/>
+		<relation name="non_fiction_literature_ibfk_2" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_2" type="fk" pk-ref="78" fk-ref="63"/>
+		<relation name="txtbooks_and_dictionaries_ibfk_1" fq-name="labirint.txtbooks_and_dictionaries.txtbooks_and_dictionaries_ibfk_1" type="fk" pk-ref="79" fk-ref="82"/>
+		<relation name="non_fiction_literature_ibfk_20" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_20" type="fk" pk-ref="80" fk-ref="63"/>
+		<relation name="non_fiction_literature_ibfk_21" fq-name="labirint.non_fiction_literature.non_fiction_literature_ibfk_21" type="fk" pk-ref="81" fk-ref="63"/>
+		<relation name="books_ibfk_8" fq-name="labirint.books.books_ibfk_8" type="fk" pk-ref="82" fk-ref="10"/>
+		<relation name="txtbooks_and_dictionaries_ibfk_8" fq-name="labirint.txtbooks_and_dictionaries.txtbooks_and_dictionaries_ibfk_8" type="fk" pk-ref="83" fk-ref="82"/>
+		<relation name="religion_ibfk_2" fq-name="labirint.religion.religion_ibfk_2" type="fk" pk-ref="84" fk-ref="74"/>
+		<relation name="books_ibfk_4" fq-name="labirint.books.books_ibfk_4" type="fk" pk-ref="85" fk-ref="10"/>
+	</relations>
+</diagram>
